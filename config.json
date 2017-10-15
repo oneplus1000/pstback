@@ -1,0 +1,9 @@
+{
+    "folders" : [
+        { 
+            "src" : "/Users/oneplus/debugpdf",
+            "dest" : "/Users/oneplus/Temp",
+            "max" : 5
+        }
+    ]
+}
